@@ -1,1 +1,3 @@
 This is a text file for testing
+
+Now added a new line to text file.
